@@ -4,8 +4,9 @@
  <ul>
   <li> Studying Software development, Embedded systems and IoT </li>
   <li> Enjoy hardware and building things</li>
-  <li> Learning new skills </li>
+  <li> Learning new skills (of all kinds) </li>
   <li> Coding with other people </li>
+  <li> I ❤️ FLOSS </li>
 </ul> 
 </div>
 
