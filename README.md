@@ -29,7 +29,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="--" alt="--"  width="40" height="40" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="--" alt="--"  width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu"  width="40" height="40" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring"  width="40" height="40" />
 
