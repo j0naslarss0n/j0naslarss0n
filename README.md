@@ -2,10 +2,10 @@
 <div>
 <h3> About me </h3>
  <ul>
-  <li> Studying Software development, Embedded systems and IoT </li>
+  <li> Studied Software development, Embedded systems and IoT </li>
   <li> Enjoy hardware and building things</li>
   <li> Learning new skills (of all kinds) </li>
-  <li> Coding with other people </li>
+  <li> Working as sysadm </li>
   <li> I ❤️ FLOSS </li>
 </ul> 
 </div>
@@ -34,6 +34,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring"  width="40" height="40" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender"  width="40" height="40" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible"  width="40" height="40" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes"  width="40" height="40" />
+
+
+
+
 
 <!--
 <img src="" title="--" alt="--"  width="40" height="40" />
